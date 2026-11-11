@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Avatar](https://next-avatar-generator.vercel.app/api/avatar?size=380&grid=5&isSymmetrical=true&rounding=0&format=png)
+
 <!--
 **sieg-ward/sieg-ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
