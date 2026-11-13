@@ -2,7 +2,7 @@
 
 ![Avatar](https://next-avatar-generator.vercel.app/api/avatar?size=380&grid=5&isSymmetrical=true&rounding=0&format=png)
 
-![Avatar]([https://next-avatar-generator.vercel.app/api/avatar?size=380&grid=5&isSymmetrical=true&rounding=0&format=png](https://next-avatar-generator.vercel.app/api/bonsai/gif?theme=cycle&type=-1&classic=true&fibonacci=true&offsetFib=true&rndOffset=true&maxWidth=140&maxHeight=50&startLen=28&leafLen=5&layers=8&angle=40&growthSpeed=1&width=640&height=400&transparent=false&background=%23101018&mode=fall&frames=40&fps=12&fallingLeaves=20&format=gif))
+![Tree](https://next-avatar-generator.vercel.app/api/bonsai/gif?theme=cycle&type=-1&classic=true&fibonacci=true&offsetFib=true&rndOffset=true&maxWidth=140&maxHeight=50&startLen=28&leafLen=5&layers=8&angle=40&growthSpeed=1&width=640&height=400&transparent=false&background=%23101018&mode=fall&frames=40&fps=12&fallingLeaves=20&format=gif)
 
 
 <!--
